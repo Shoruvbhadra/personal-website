@@ -1,8 +1,9 @@
 body{
     font-family: 'Libre Baskerville', serif;
+    margin: 0px;
 }
 section{
-    height: 350px;
+    height: 450px;
 }
 .intro{
     width: 700px;
@@ -15,4 +16,94 @@ section{
     font-size: 40px;
 }
 span{
-    color: rgb(142, 245, 142);
+    color: rgb(132, 166, 223);}
+
+.hire{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 4px;
+    font-weight: 900;
+    background-image: linear-gradient(45deg, rgb(76, 150, 172),rgb(71, 109, 190));
+    
+}
+.in{
+    text-decoration: none;
+    color: rgb(45, 252, 252);
+}
+.half{
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+}
+.bio{
+    width: 700px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+.second-half{
+    margin-top: 50px;
+    background-image: url(images/bio.png);
+    background-repeat: no-repeat;
+}
+    
+     
+ h2{
+     font-size: 50px;
+ }   
+
+ .work{
+     margin-top: 50px;
+     background-image: url(images/latest-work-bg.png);
+ }
+ .middle{
+     margin-top: 10px;
+     margin-left: 500px;
+ }
+ .latest{
+     float: left;
+     width: 300px;
+     padding: 70px;
+     margin-left: 40px;}
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+   
+}
+.mail{
+    border: 1px solid rgb(71, 71, 112);
+    color: coral;
+    margin: 10px 400px;
+    padding: 60px;
+    background-image: linear-gradient(rgb(71, 71, 112), rgb(65, 65, 161));
+}
+    
+ 
+.contact {
+    height: 350px;
+}
+ .find{
+     text-align: center;
+ }
+ .logo{
+     float: left;
+     width: 10px;
+     padding-left: 200px;
+     margin: 100px;
+     }
+ .end{
+     text-align: center;
+ }    
+
+  
+
+
+ 
+
+
+
+
+
+
+
